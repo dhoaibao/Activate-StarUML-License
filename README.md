@@ -58,7 +58,7 @@ Download: [StarUML](https://staruml.io/download/)
         })
       }
     ```
-7. Repackage app
+7. Repackage app:
    ```sudo asar pack app app.asar```
 8. Open **StarUML**, **Help -> Enter License Key**: ```"You already have a valid license."```. Successful activation!
 
