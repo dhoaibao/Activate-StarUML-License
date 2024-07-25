@@ -15,7 +15,7 @@
 ```
 
 ## Manual activation on Windows
-1. Download **app.asar** file at [here](https://drive.google.com/uc?export=download&id=1_jtcwJmR7hw9gK57-MCB2SmwQwj0-2PS).
+1. Download **app.asar** file at [here](https://github.com/dhoaibao/activate-StarUML-license/raw/main/app.asar).
 2. Replace **app.asar** file in the folder: ```C:\Program Files\StarUML\resources\```
 
 ##
