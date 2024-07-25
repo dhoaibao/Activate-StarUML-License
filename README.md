@@ -7,14 +7,14 @@
 
 > **Backup download link: [here](https://drive.google.com/drive/folders/1ezp3CxV6UqR7zgJlaWWlI26oNjz-1cwX?usp=sharing)**
 
-## Quick activate on Linux
+## Quick activation on Linux
 ```py
     git clone https://github.com/dhoaibao/activate-StarUML-license.git
     sudo mv activate-StarUML-license/app.asar /opt/StarUML/resources
     rm -rf activate-StarUML-license/
 ```
 
-## Manuly activate on Windows
+## Manual activation on Windows
 1. Download **app.asar** file at [here](https://drive.google.com/uc?export=download&id=1_jtcwJmR7hw9gK57-MCB2SmwQwj0-2PS).
 2. Replace **app.asar** file in the folder: ```C:\Program Files\StarUML\resources\```
 
