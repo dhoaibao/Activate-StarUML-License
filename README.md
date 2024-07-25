@@ -22,4 +22,5 @@
 1. Install **Node.js** and **npm**
 2. Install **asar** via **npm**: ```npm i asar -g```
 3. Extract source: ```asar extract app.asar app```
-4. Repackage app: ```asar pack app app.asar```
+4. Check at ```app``` folder
+5. Repackage app: ```asar pack app app.asar```
