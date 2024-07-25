@@ -1,3 +1,4 @@
+![image](./staruml.png)
 
 # Download StarUMLv6.2.2
 [StarUML for Windows](https://staruml.io/api/download/releases-v6/StarUML%20Setup%206.2.2.exe)
