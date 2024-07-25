@@ -16,10 +16,11 @@
 1. Download **app.asar** file in this repository.
 2. Replace **app.asar** file in the folder: ```C:\Program Files\StarUML\resources\```
 
-
 ## Check app.asar file if necessary:
 1. Install **Node.js** and **npm**
 2. Install **asar** via **npm**: ```npm i asar -g```
 3. Extract source: ```asar extract app.asar app```
 4. Check at ```app``` folder
 5. Repackage app: ```asar pack app app.asar```
+
+**Source: [https://blog.csdn.net/mtrdong/article/details/133831497](https://blog.csdn.net/mtrdong/article/details/133831497)**
