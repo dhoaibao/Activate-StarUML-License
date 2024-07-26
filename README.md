@@ -9,9 +9,9 @@
 
 ## Quick activation on Linux
 ```js
-    git clone https://github.com/dhoaibao/activate-StarUML-license.git
-    sudo mv activate-StarUML-license/app.asar /opt/StarUML/resources
-    rm -rf activate-StarUML-license/
+    git clone https://github.com/dhoaibao/Activate-StarUML-License.git
+    sudo mv Activate-StarUML-License/app.asar /opt/StarUML/resources
+    rm -rf Activate-StarUML-License/
 ```
 
 ## Manual activation on Windows
