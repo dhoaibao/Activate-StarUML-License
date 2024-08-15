@@ -1,9 +1,9 @@
 ## Download StarUMLv6.2.2 x86_64
-[StarUML for Windows](https://github.com/dhoaibao/Activate-StarUML-License/releases/download/v6.2.2/StarUML.Setup.6.2.2.exe)
+[StarUML for Windows](https://staruml.io/api/download/releases-v6/StarUML%20Setup%206.2.2.exe)
 
-[StarUML for Ubuntu](https://github.com/dhoaibao/Activate-StarUML-License/releases/download/v6.2.2/StarUML_6.2.2_amd64.deb)
+[StarUML for Ubuntu](https://staruml.io/api/download/releases-v6/StarUML_6.2.2_amd64.deb)
 
-[StarUML for Fedora](https://github.com/dhoaibao/Activate-StarUML-License/releases/download/v6.2.2/StarUML-6.2.2.x86_64.rpm)
+[StarUML for Fedora](https://staruml.io/api/download/releases-v6/StarUML-6.2.2.x86_64.rpm)
 
 ## Quick activation on Linux
 ```js
